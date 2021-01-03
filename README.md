@@ -10,4 +10,5 @@ OR
 1. Open DataSummerization.ipynb file
 2. Click 'Open in Colab' button.
 
-<p img src='data_summer_flowchart.jpg'>
+<p><img src='data_summer_flowchart.png' />
+
